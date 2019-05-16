@@ -43,7 +43,7 @@ var TVjsApi = (function(){
 
         var symbol = this.symbol;
 
-        var locale = 'zh';
+        var locale = 'en';
 
         var skin = localStorage.getItem('tradingViewTheme') || 'white';
 
